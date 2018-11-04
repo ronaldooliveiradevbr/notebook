@@ -48,12 +48,12 @@ False
 
 * [x] A Note Class
 
-* [] A Notebook Class
+* [ ] A Notebook Class
 
-* [] A CLI Menu
+* [ ] A CLI Menu
 
-* [] CI badge
+* [ ] CI badge
 
-* [] Test coverage badge
+* [ ] Test coverage badge
 
-* [] Code quality badge
+* [ ] Code quality badge
